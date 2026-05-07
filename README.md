@@ -1,16 +1,29 @@
-# React + Vite
+# Hi, I'm Jenifer 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👩‍💻 About Me
+- 2023 Graduate transitioning into Java Development
+- Strong foundation in Core Java and frontend technologies
+- Experience building console-based and frontend projects
+- Currently enhancing backend skills step by step
 
-Currently, two official plugins are available:
+## 🛠️ Skills
+- **Programming:** Core Java (OOPs, Collections, Exception Handling), Java File Handling  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Tools & Platforms:** Git & GitHub, Eclipse IDE  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📂 Projects
 
-## React Compiler
+### 🔹 Student Management System (Core Java)
+- Console-based Java application
+- Implements CRUD operations
+- Uses File Handling for persistent data storage  
+🔗 [View Repository](https://github.com/jenifer-rj/student-management-system-java.git)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🔹 Recipe Finder Web App (React, JavaScript, API)
+- Web application to search recipes based on ingredients
+- Fetches data from an external recipe API
+- Interactive UI built with React  
+🔗 [View Repository]()
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📫 Connect with Me
+- GitHub: [jenifer-rj](https://github.com/jenifer-rj)
