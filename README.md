@@ -23,7 +23,7 @@
 - Web application to search recipes based on ingredients
 - Fetches data from an external recipe API
 - Interactive UI built with React  
-🔗 [View Repository]()
+🔗 [View Repository](https://github.com/jenifer-rj/Recipe-Finder-Web-App.git)
 
 ## 📫 Connect with Me
 - GitHub: [jenifer-rj](https://github.com/jenifer-rj)
