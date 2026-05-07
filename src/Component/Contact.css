@@ -1,0 +1,31 @@
+.contact {
+  padding: 80px 60px;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+.contact h4 {
+  color: #7c5cff;
+  font-size: 35px;
+}
+
+.contact h2 {
+  margin-bottom: 20px;
+}
+
+.contact p {
+  color: #ccc;
+}
+
+.contact-info {
+  margin: 30px 0;
+  line-height: 2;
+}
+
+.social-links a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #7c5cff;
+  font-weight: 500;
+}

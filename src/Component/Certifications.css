@@ -1,0 +1,42 @@
+.certifications {
+  padding: 80px 60px;
+  background: #0a0a0f;
+  color: white;
+  text-align: center;
+}
+
+.certifications h4 {
+  color: #7c5cff;
+  font-size: 35px;
+}
+
+.certifications h2 {
+  margin-bottom: 40px;
+}
+
+.cert-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.cert-card {
+  background: #1a1a22;
+  padding: 25px;
+  width: 300px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+  background: #3e2c83;
+  box-shadow: 0 0 10px #2c1f61;
+
+}
+
+.cert-card p {
+  color: #ccc;
+  line-height: 1.6;
+}
